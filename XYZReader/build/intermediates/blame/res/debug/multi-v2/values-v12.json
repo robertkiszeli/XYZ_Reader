@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kiszeli/Udacity Developer /Material Design/xyz-reader-starter-code-master/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml",
+            "map": [
+                {
+                    "source": "/home/kiszeli/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0c62f7af999cc619c7ea58358cb0a6f6/res/values-v12/values-v12.xml",
+                    "from": {
+                        "startLines": "2,5,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,279,479,598",
+                        "endLines": "4,7,8,9",
+                        "endColumns": "12,12,118,94",
+                        "endOffsets": "274,474,593,688"
+                    }
+                }
+            ]
+        }
+    ]
+}

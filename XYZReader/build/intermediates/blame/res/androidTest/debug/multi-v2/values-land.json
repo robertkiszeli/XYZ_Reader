@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kiszeli/Udacity Developer /Material Design/xyz-reader-starter-code-master/XYZReader/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/kiszeli/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0c62f7af999cc619c7ea58358cb0a6f6/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/kiszeli/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/dd6ece7508b7b052d0869a27531ca54b/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                }
+            ]
+        }
+    ]
+}

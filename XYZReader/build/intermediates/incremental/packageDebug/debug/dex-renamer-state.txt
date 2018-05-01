@@ -1,0 +1,4 @@
+#Tue May 01 14:52:08 CEST 2018
+base.0=/home/kiszeli/Udacity Developer /Material Design/xyz-reader-starter-code-master/XYZReader/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
